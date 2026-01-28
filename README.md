@@ -1,6 +1,6 @@
 ![logo](Profile.png)
 
-<h1 align="center">Hi 👋, I'm Pranav Samadhan Khaire</h1>
+<h1 align="center">Hi 👋, I'm Piyush Eknath Jaybhaye</h1>
 <h3 align="center">Aspiring Data Scientist • AI & ML Enthusiast • Full-Stack Learner</h3>
 
 <p align="center" style="font-size: 2rem; font-weight: 700;">
@@ -147,5 +147,6 @@ I build production-minded, data-driven systems and ML-enabled web applications w
 
 ## 🎉 Thanks for visiting my GitHub!  
 ⭐ **Feel free to star my repositories & connect with me!**
+
 
 
